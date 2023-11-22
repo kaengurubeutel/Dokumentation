@@ -14,7 +14,7 @@
             <h2 style="font-weight: 700; color:white;">Team:</h2>
             <h2>Maximilian Uhlig MA:2089845</h2>
             <h2>Luisa Trojan</h2>
-            <h2>Amanda Ibrom</h2>
+            <h2>Amanda Ibrom MA:2092229</h2>
         </div>
         
     
